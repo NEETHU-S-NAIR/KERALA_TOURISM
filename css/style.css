@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.but{
+   position: relative;
+   float: left;
+   margin-top: 3%;
+}
+.error{
+    color: red;
+    margin-left: 0.5%;
+    text-align: center;
+}
+footer{
+    background-color: #048f4a;
+    text-align: center;
+    height: 80px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.pass{
+    border: 1px solid #ccc;
+    outline: none;
+}
+.footcon{
+    color: rgb(25, 7, 107);
+    margin-top: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+.footp {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: #abb3b0;
+    padding-left: 85%;
+    
+}
